@@ -1,8 +1,11 @@
 # 💼 JobStack – Full-Stack MERN Job Portal
 
 <p align="center">
-  <b>Connecting Talent with Opportunity 🚀</b><br>
-  A modern, secure, and scalable job portal built with the <b>MERN Stack</b>.
+  <h3>🚀 Empowering Careers. Simplifying Hiring.</h3>
+  <p>
+    A modern, secure, and scalable MERN Stack job portal that seamlessly connects
+    talented professionals with recruiters through an intuitive and responsive platform.
+  </p>
 </p>
 
 ---
