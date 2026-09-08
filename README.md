@@ -1,4 +1,4 @@
-# 💼 JobStack — Full-Stack MERN Job Portal
+<h1 align="center">💼 JobStack — Full-Stack MERN Job Portal</h1>
 
 <p align="center">
   <b>🚀 Empowering Careers. Simplifying Hiring.</b>
